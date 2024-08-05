@@ -1,3 +1,4 @@
 # git-demo
 This is my first git repository
-Author- Usha Prakash
+Author- Usha (web developer)
+
